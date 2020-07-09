@@ -1,6 +1,5 @@
 import React from "react"
 import illustration from "../img/undraw_accept_tasks_po1c.svg"
-import Form from "./contact-form.js"
 
 export default () => {
   return (
@@ -20,9 +19,6 @@ export default () => {
             alt="imagen de encabezado"
             style={{ height: "300px" }}
           />
-        </div>
-        <div>
-          <Form />
         </div>
       </div>
     </header>
