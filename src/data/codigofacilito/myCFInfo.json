@@ -1,0 +1,17 @@
+{
+  "data": {
+    "email": "cjgm14@gmail.com",
+    "username": "Chrissus",
+    "certificates": [],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "60.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
+    ],
+    "finished_courses": []
+  },
+  "errors": []
+}

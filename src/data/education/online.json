@@ -1,0 +1,19 @@
+{
+  "slug": "online",
+  "title": "Cursos en línea",
+  "description": "Cursos en plataformas de educación en internet",
+  "items": [
+    {
+      "name": "JavaScript Desde Cero",
+      "url": "https://ed.team/christiandejesusgomezmurillo/curso/javascript"
+    },
+    {
+      "name": "React.js Desde Cero",
+      "url": "https://ed.team/christiandejesusgomezmurillo/curso/react"
+    },
+    {
+      "name": "Programación orientada a objetos con JavaScript",
+      "url": "https://ed.team/christiandejesusgomezmurillo/curso/js-poo"
+    }
+  ]
+}

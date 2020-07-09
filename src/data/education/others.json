@@ -1,0 +1,11 @@
+{
+  "slug": "others",
+  "title": "Otros logros académicos",
+  "description": "Talleres, diplomados en lo que he participado",
+  "items": [
+    {
+      "name": "FullStack Web Development en JavaScript",
+      "school": "CeroUno"
+    }
+  ]
+}

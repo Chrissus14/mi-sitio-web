@@ -1,0 +1,15 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica, grados de estudio",
+  "items": [
+    {
+      "name": "Universidad Mexicana campus Veracruz",
+      "degree": "Licenciatura en Sistemas Computacionales"
+    },
+    {
+      "name": "Centro de Bachillerato Tecnológico Industrial y de Servicios #79",
+      "degree": "Técnico en computación"
+    }
+  ]
+}
